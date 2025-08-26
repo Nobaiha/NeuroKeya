@@ -8,7 +8,7 @@ Read the NeuroKeya User Manual here (https://github.com/Nobaiha/NeuroKeya/blob/2
 
 ## Download
 
-[![Download NeuroKeya](https://img.shields.io/badge/Download-Windows%20Installer-blue?style=for-the-badge&logo=windows)](https://github.com/YourUserName/NeuroKeya/releases/latest)
+[![Download NeuroKeya](https://img.shields.io/badge/Download-Windows%20Installer-blue?style=for-the-badge&logo=windows)](https://github.com/Nobaiha/NeuroKeya/releases/tag/v0.1)
 
 ## Tutorial Videos
 
