@@ -3,7 +3,7 @@ NeuroKeya is a customizable cognitive training mini-game application designed to
 
 ## Manual
 
-[Read the NeuroKeya User Manual here (PDF)](https://your-link-to-manual.com](https://github.com/Nobaiha/NeuroKeya/blob/4e572e97d30c25d671184adf259d22cb32c398a1/NeuroKeya_Manual.pdf)
+Read the NeuroKeya User Manual here (https://github.com/Nobaiha/NeuroKeya/blob/25fd647817ee8660ea6fa8d6a752964a716072d6/NeuroKeya_Manual.pdf)
 
 ## Download
 
