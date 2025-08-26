@@ -1,6 +1,6 @@
 # NeuroKeya
 Welcome to NeuroKeya! A customizable cognitive training mini-game application designed to support individuals living with dementia, as well as those recovering from head trauma, stroke, or other forms of cognitive impairment. 
-The app features a multilingual interface with support for 66 languages, making it accessible to users from diverse linguistic and cultural backgrounds. To install click on the download button below. 
+The app features a multilingual interface with support for 66 languages, making it accessible to users from diverse linguistic and cultural backgrounds. To install click on the download button below. It includes six carefully designed mini games targeting core cognitive skills such as memory, attention, categorization, sequencing, auditory processing etc. Among these, two games are fully customizable, allowing caregivers or family members to upload personal images such as familiar objects or faces, tailoring the experience to the user's unique memories and environment. 
 
 ## Manual
 
