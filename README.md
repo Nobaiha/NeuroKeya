@@ -28,3 +28,5 @@ For support, feedback, questions or suggestions please reach out to:
 - Requires **Windows 10/11**  
 - Installer includes uninstaller via Control Panel  
 - All game data is stored locally
+- When installing you might get access denied message, you can ignore it.
+- Once installed app will be located in: Users\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\NeuroKeya
