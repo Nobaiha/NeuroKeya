@@ -4,7 +4,7 @@ The app features a multilingual interface with support for 66 languages, making 
 
 ## Manual
 
-Read the NeuroKeya User Manual here (https://github.com/Nobaiha/NeuroKeya/blob/25fd647817ee8660ea6fa8d6a752964a716072d6/NeuroKeya_Manual.pdf)
+Read the NeuroKeya User Manual here: (https://github.com/Nobaiha/NeuroKeya/blob/68016b8b57f5fcedfb2a603a035a69a6fca15e6a/NeuroKeya_Manual.pdf)
 
 ## Download
 
