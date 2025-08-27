@@ -25,7 +25,8 @@ For support, feedback, questions or suggestions please reach out to:
 
 ## Notes
 
-- Requires **Windows 10/11**  
+- Requires **Windows 10/11**
+- For best user experiecne set your pc display resolution to 1920 x 1080
 - Installer includes uninstaller via Control Panel  
 - All game data is stored locally
 - When installing you might get access denied message, you can ignore it.
